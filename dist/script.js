@@ -1,0 +1,2 @@
+"use strict";var accordionItemHeaders=document.querySelectorAll(".accordion-item-header");accordionItemHeaders.forEach((function(e){e.addEventListener("click",(function(){var c=document.querySelector(".accordion-item-header.active");c&&c!==e&&c.classList.remove("active"),e.classList.toggle("active")}))}));
+//# sourceMappingURL=script.js.map
