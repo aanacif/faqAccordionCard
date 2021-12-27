@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/aanacif/sunnyside-agency](https://github.com/aanacif/sunnyside-agency)
-- Live Site URL: [https://aanacif.github.io/sunnyside-agency/](https://aanacif.github.io/sunnyside-agency/)
+- Solution URL: [https://github.com/aanacif/faqAccordionCard](https://github.com/aanacif/faqAccordionCard)
+- Live Site URL: [https://aanacif.github.io/faqAccordionCard/](https://aanacif.github.io/faqAccordionCard/)
 
 ## My process
 
